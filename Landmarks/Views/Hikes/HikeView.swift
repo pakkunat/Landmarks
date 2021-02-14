@@ -1,9 +1,9 @@
-/*
- See LICENSE folder for this sample’s licensing information.
- 
- Abstract:
- A view displaying information about a hike, including an elevation graph.
- */
+//
+//  HikeView.swift
+//  Landmarks
+//
+//  Created by pakkun on 2021/02/14.
+//
 
 import SwiftUI
 

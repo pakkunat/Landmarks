@@ -1,9 +1,9 @@
-/*
- See LICENSE folder for this sample’s licensing information.
- 
- Abstract:
- A view showing the details for a hike.
- */
+//
+//  HikeDetail.swift
+//  Landmarks
+//
+//  Created by pakkun on 2021/02/14.
+//
 
 import SwiftUI
 

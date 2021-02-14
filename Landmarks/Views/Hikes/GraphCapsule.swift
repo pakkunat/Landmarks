@@ -1,9 +1,9 @@
-/*
- See LICENSE folder for this sample’s licensing information.
- 
- Abstract:
- A single line in the graph.
- */
+//
+//  GraphCapsule.swift
+//  Landmarks
+//
+//  Created by pakkun on 2021/02/14.
+//
 
 import SwiftUI
 
@@ -31,8 +31,6 @@ struct GraphCapsule: View {
 
 struct GraphCapsule_Previews: PreviewProvider {
   static var previews: some View {
-    // The graph that uses the capsule tints it by multiplying against its
-    // base color of white. Emulate that behavior here in the preview.
     GraphCapsule(index: 0, height: 150, range: 10..<50, overallRange: 0..<100)
       .colorMultiply(.blue)
   }
